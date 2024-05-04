@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an ecommerce website**
 
-- 🌱 I’m currently learning **tailwind css**
+- 🌱 I’m currently learning **Next JS , tailwind css**
 
 - 👯 I’m looking to collaborate on **devops**
 
