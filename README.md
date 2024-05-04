@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melekladh&label=Profile%20views&color=0e75b6&style=flat" alt="melekladh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melekladh" alt="melekladh" /></a> </p>
 
 - 🔭 I’m currently working on **an ecommerce website**
 
