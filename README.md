@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on **devops**
 
 - 📫 How to reach me **ladharime@gmail.com**
+- ⚡ Fun fact: Youtube is my best friend 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
