@@ -1,16 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malek</h1>
-<h3 align="center">A web developer</h3>
 
-
-
-- 🔭 I’m currently working on **an ecommerce website**
-
-- 🌱 I’m currently learning **Next JS , tailwind css**
-
-- 👯 I’m looking to collaborate on **devops**
-
-- 📫 How to reach me **ladharime@gmail.com**
-- ⚡ Fun fact: Youtube is my best friend 
 
 
 <h3 align="left">Connect with me:</h3>
